@@ -1,0 +1,47 @@
+up	back	
+left	up	back	
+left	up	back	left	up	back	up	back	up	back	up	back	down	forward	
+down	forward	down	forward	
+down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	
+down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	up	
+up	up	up	up	right	up	right	up	right	up	right	up	down	
+down	
+up	
+up	up	forward	up	
+up	up	up	up	up	up	up	up	
+up	down	
+down	down	up	
+down	
+down	down	down	down	down	down	down	right	down	right	down	right	down	right	down	down	
+down	down	down	down	down	down	down	down	up	
+up	up	up	up	up	up	down	up	up	up	up	up	up	up	up	up	up	up	up	down	
+up	
+up	up	down	down	down	down	down	
+down	down	up	
+down	
+up	
+up	
+down	
+down	down	
+down	forward	
+forward	forward	left	forward	left	forward	left	forward	forward	
+left	forward	left	forward	left	forward	left	forward	left	forward	left	forward	left	forward	left	down	forward	left	down	forward	left	down	forward	left	down	forward	down	
+down	down	down	down	down	down	down	down	down	down	down	back	right	up	back	
+left	up	back	
+down	forward	
+down	forward	down	
+down	forward	down	forward	down	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	down	forward	up	
+up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	right	up	up	
+up	up	down	
+down	down	down	down	down	down	down	down	down	down	down	down	down	down	down	down	down	down	down	down	down	left	
+right	
+right	right	right	right	right	right	right	right	right	right	right	right	right	right	right	right	right	right	right	left	
+left	up	
+up	up	up	up	up	up	up	up	up	up	up	up	up	left	
+left	down	left	down	left	down	down	
+down	down	down	back	down	back	down	back	down	back	down	back	down	back	down	back	down	back	down	back	down	back	down	back	down	back	down	back	down	back	down	back	down	back	down	back	up	
+down	
+down	up	down	up	down	up	down	up	right	down	up	up	up	up	up	up	
+up	up	up	back	up	up	up	up	up	up	up	up	up	back	up	up	back	up	up	back	up	up	back	up	up	back	up	up	back	up	up	back	up	right	up	back	up	up	up	right	up	back	up	up	up	right	up	back	up	up	right	up	right	up	back	right	up	right	up	right	up	right	up	back	right	up	up	up	right	up	back	up	up	up	right	up	back	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	up	right	up	back	up	down	
+down	down	down	down	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	left	down	down	right	
+down	right	down	right	down	down	right	down	back	down	down	back	down	down	back	down	down	back	down	back	down	back	back	

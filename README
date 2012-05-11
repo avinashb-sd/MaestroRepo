@@ -1,0 +1,66 @@
+Avinash BharathSingh
+Senior Design
+
+Maestro creates an interactive music conducting environment.  Users define their own gestures to manipulate various qualities of sound.  These include volume, key, tempo, specific areas of sound.
+
+
+-Includes OpenNI & FMOD libraries
+-Uses SensorKinect library to communicate with Kinect Sensor
+
+Instructions:	
+-To run Maestro
+
+	cd Maestro/Development/Bin/Release
+	./Maestro
+
+-In order to use Maestro once running:
+	
+	Press 'r' to enter record mode, then press one of the following to 	select which gesture to record.  
+
+	1 - Increase Volume
+	2 - Decrease Volume
+	3 - Increase Tempo
+	4 - Decrease Tempo
+	5 - Increase Pitch
+	6 - Decrease Pitch
+	f - lowpass
+	g - highpass
+	h - echo
+	j - flange
+	l - distortion
+	k - chorus
+	c - parameq
+	q - Quit
+
+	Once you have performed the gesture once, and you haven't hit the maximum number of states, press 'r' to complete.
+
+	Press 'a' to record the gesture again, for algorithm purposes.
+
+	Once you have recorded the gesture, repeat the procedure above to record other gestures.
+
+	You can save your gestures by pressing 'S'.  You can load the gestures in the futures uses by pressing 'L'.
+
+	To enter the Detecting Mode press 'd'.
+
+	Here you can start the audio files by raising you right hand up above your head.  If your orientation is shifted to a side only 1 audio file will start.  If you are facing the middle then both audio files will play.
+
+	To change the audio drop the audio files into:
+
+	Maestro/Development/Config	
+
+	Update the lines in GroupA.cpp & GroupB.cpp, located in Maestro/Development/Audio:
+
+	result = system->createSound("../Config/NAME OF SONG", FMOD_SOFTWARE | FMOD_LOOP_NORMAL | FMOD_2D, 0, &sound[0]);
+
+
+Install:
+	Make files are located in 
+	Maestro/Development/Audio && Maestro/Development/Maestro
+
+Libraries Included:
+	NITE
+	Sensor Kinect
+
+	These are located in Include, installation may be necessary.
+	
+Maestro is only testes work on Mac OS X 10.6.  It will probably work on 10.5, but I am not certain about 10.7
